@@ -1,3 +1,4 @@
 Adding a second file for a non conflicting change.
 
-Add a line that conflicts.
+Add a line that conflicts.Adding a second file for a non conflicting change.
+Modify the file for a third stacked PR.
